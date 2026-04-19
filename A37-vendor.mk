@@ -407,8 +407,8 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/lib64/vendor.display.postproc@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.postproc@1.0_vendor.so \
     vendor/oppo/A37/proprietary/vendor/lib64/vendor.qti.hardware.alarm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.alarm@1.0.so \
     vendor/oppo/A37/proprietary/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so \
-    vendor/oppo/A37/proprietary/vendor/lib64/vendor.qti.hardware.vpp@1.1_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.vpp@1.1_vendor.so
-    vendor/oppo/A37/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so \
+    vendor/oppo/A37/proprietary/vendor/lib64/vendor.qti.hardware.vpp@1.1_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.vpp@1.1_vendor.so \
+#    vendor/oppo/A37/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
