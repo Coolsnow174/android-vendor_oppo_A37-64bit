@@ -339,7 +339,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/lib64/libaudioparsers.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioparsers.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libbccQTI.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbccQTI.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libbtnv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtnv.so \
-    vendor/oppo/A37/proprietary/vendor/lib64/libcalmodule_akm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcalmodule_akm.so
+    vendor/oppo/A37/proprietary/vendor/lib64/libcalmodule_akm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcalmodule_akm.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libc2d30-a3xx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc2d30-a3xx.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libc2d30-a4xx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc2d30-a4xx.so \
     vendor/oppo/A37/proprietary/vendor/lib64/libc2d30-a5xx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc2d30-a5xx.so \
